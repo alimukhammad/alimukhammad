@@ -15,18 +15,10 @@ Here are some ideas to get you started:
  -->
 
 <h1 align="center">Hi 👋, I'm Sardor</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img>
 
 
-- 🔭 I’m currently working on **Covid Tracker**
 
-- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Angular**
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimukhammad&show_icons=true&locale=en&layout=compact" alt="alimukhammad" /></p>
 
-- 📫 How to reach me **alimukhammad1@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimukhammad&show_icons=true&locale=en&layout=compact" alt="alimukhammad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimukhammad&" alt="alimukhammad" /></p>
